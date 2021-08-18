@@ -1,6 +1,6 @@
 ---
 theme: default
-titleTemplate: "%s - LeanERA"
+titleTemplate: "%s — LeanERA"
 highlighter: shiki
 fonts:
   sans: Founders Grotesk
