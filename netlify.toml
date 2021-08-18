@@ -8,8 +8,13 @@
   command = "npx pnpm i --store=node_modules/.pnpm-store && npx pnpm run build"
 
 [[redirects]]
-  from = "/2021/design-tokens/*"
-  to = "/2021/design-tokens/index.html"
+  from = "/2021/leanera-design-tokens/*"
+  to = "/2021/leanera-design-tokens/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/2021/leanera-accessible-routing-spa/*"
+  to = "/2021/leanera-accessible-routing-spa/index.html"
   status = 200
 
 [[redirects]]
