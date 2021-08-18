@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "scripts": {
+      "dev": "slidev",
+      "build": "slidev build --base /2021/leanera-accessible-routing-spa/ --out ../../dist/2021/leanera-accessible-routing-spa",
+      "export": "slidev export --dark --output ../2021-08-18-leanera-accessible-routing-spa.pdf"
+    },
+    "dependencies": {
+      "@slidev/cli": "^0.22.7",
+      "@slidev/theme-default": "^0.19.1"
+    },
+    "devDependencies": {
+      "@slidev/types": "^0.22.7",
+      "playwright-chromium": "^1.14.0"
+    }
+  }
+  
