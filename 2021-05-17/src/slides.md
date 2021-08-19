@@ -1,7 +1,7 @@
 ---
 theme: default
 background: /img/johann-schopplich-greifswald.jpg
-class: 'text-center'
+class: text-center
 highlighter: shiki
 info: |
   ## Für LeanERA
