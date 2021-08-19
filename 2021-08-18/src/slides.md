@@ -1,6 +1,7 @@
 ---
 theme: default
-titleTemplate: "%s — LeanERA"
+title: "Design Tokens"
+titleTemplate: "%s – Slidev"
 highlighter: shiki
 fonts:
   sans: "Founders Grotesk,Work Sans"

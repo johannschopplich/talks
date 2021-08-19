@@ -1,5 +1,7 @@
 ---
 theme: default
+title: "Barrierefreies Routing in SPAs"
+titleTemplate: "%s – Slidev"
 highlighter: shiki
 background: /img/johann-schopplich-greifswald.jpg
 class: text-center
