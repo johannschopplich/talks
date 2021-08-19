@@ -321,7 +321,7 @@ Off-screen, visuell unsichtbar
 
 ### Hook
 
-```js {all|3-6|all}
+```js {3-6|all}
 import { reactive } from 'vue'
 
 const announcer = reactive({

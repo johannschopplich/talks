@@ -221,9 +221,15 @@ layout: cover
 ---
 
 <img
-  class="mx-auto w-full"
+  class="mx-auto w-full -mb-2"
   src="/img/underconsideration.com-spotify-2015-logo.gif"
 />
+
+<p class="text-sm text-right opacity-60">
+
+Source: [https://www.underconsideration.com/brandnew/archives/new_identity_for_spotify_by_collins.php](https://www.underconsideration.com/brandnew/archives/new_identity_for_spotify_by_collins.php)
+
+</p>
 
 ---
 layout: quote
@@ -258,6 +264,12 @@ layout: quote
   class="relative -mt-6"
   src="/img/specifyapp-button-component-design-tokens-anatomy-dark.webp"
 />
+
+<p class="absolute bottom-2 right-18 text-sm opacity-60">
+
+Source: [https://specifyapp.com/blog/introduction-to-design-tokens](https://specifyapp.com/blog/introduction-to-design-tokens)
+
+</p>
 
 ---
 
@@ -356,6 +368,12 @@ layout: quote
   m="-t-6"
   src="/img/specifyapp-how-design-decisions-are-applied-dark.webp"
 />
+
+<p class="absolute bottom-2 right-18 text-sm opacity-60">
+
+Source: [https://specifyapp.com/blog/introduction-to-design-tokens](https://specifyapp.com/blog/introduction-to-design-tokens)
+
+</p>
 
 ---
 
