@@ -10,7 +10,7 @@ Slides &amp; code for some talks
 Install dependencies using [pnpm](https://pnpm.io):
 
 ```bash
-pnpm i
+pnpm install
 ```
 
 Then, inside a slides `src` folder, run:
