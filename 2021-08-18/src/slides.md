@@ -164,7 +164,7 @@ layout: quote
 
 ---
 
-# Roto ProfiLiga 2.0 PWA
+# Excerpt from Roto PWA
 
 ```scss
 // roto.variables.scss
@@ -327,6 +327,9 @@ Source: [https://specifyapp.com/blog/introduction-to-design-tokens](https://spec
   --color-base-primary: #2bbcd2;
 }
 ```
+
+<br>
+<br>
 
 </v-click>
 <v-click>
