@@ -67,7 +67,7 @@ layout: image-right
 image: https://source.unsplash.com/wD1LRb9OeEo/1920x1080
 ---
 
-# Imagine you’re **Head of Design** at Large Corp
+# … You’re **Head of Design** at Large Corp
 
 <v-click>
 

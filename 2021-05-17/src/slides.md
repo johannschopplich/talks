@@ -1,8 +1,8 @@
 ---
 theme: default
+highlighter: shiki
 background: /img/johann-schopplich-greifswald.jpg
 class: text-center
-highlighter: shiki
 info: |
   ## Für LeanERA
   Kleine Präsentation für das zweite Bewerbungsgespräch.
