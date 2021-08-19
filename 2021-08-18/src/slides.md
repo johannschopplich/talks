@@ -3,10 +3,9 @@ theme: default
 titleTemplate: "%s — LeanERA"
 highlighter: shiki
 fonts:
-  sans: Founders Grotesk
-  serif: Founders Grotesk
-  mono: Iosevka
-  provide: none
+  sans: "Founders Grotesk,Work Sans"
+  mono: "Fira Code"
+  local: "Founders Grotesk"
 layout: cover
 class: text-center
 ---
