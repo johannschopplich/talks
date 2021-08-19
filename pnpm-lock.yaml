@@ -10,6 +10,19 @@ importers:
       pnpm: 6.13.0
       rimraf: 3.0.2
 
+  2021-05-17/src:
+    specifiers:
+      '@slidev/cli': ^0.22.7
+      '@slidev/theme-default': ^0.19.1
+      '@slidev/types': ^0.22.7
+      playwright-chromium: ^1.14.0
+    dependencies:
+      '@slidev/cli': 0.22.7_playwright-chromium@1.14.0
+      '@slidev/theme-default': 0.19.1
+    devDependencies:
+      '@slidev/types': 0.22.7
+      playwright-chromium: 1.14.0
+
   2021-08-18/src:
     specifiers:
       '@slidev/cli': ^0.22.7

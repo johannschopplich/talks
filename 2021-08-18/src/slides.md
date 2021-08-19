@@ -117,12 +117,12 @@ layout: quote
 ```
 Hey Thomas,
 
-I’ve updated our main brand color.
+we have decided on our new primary brand color. 🚀
 
-The old one is rgb(237, 200, 078).
-The new one is rgb(187, 45, 23).
+- The old one is: rgb(237, 200, 078).
+- The new one is: rgb(187, 45, 23).
 
-Can you update your codebase with the new value please?
+Would you mind updating the codebase with the new value?
 
 Thanks in advance!
 ```
