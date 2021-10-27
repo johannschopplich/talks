@@ -1,3 +1,3 @@
 # Barrierefreies Routing in SPAs
 
-> Kleine Präsentation für das zweite Bewerbungsgespräch bei LeanERA.
+Kleine Präsentation für das zweite Bewerbungsgespräch bei LeanERA.

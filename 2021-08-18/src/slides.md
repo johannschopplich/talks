@@ -1,6 +1,6 @@
 ---
 theme: default
-title: "Design Tokens"
+title: Design Tokens
 titleTemplate: "%s – Slidev"
 highlighter: shiki
 fonts:

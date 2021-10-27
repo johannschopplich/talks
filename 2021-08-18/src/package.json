@@ -6,11 +6,11 @@
     "export": "slidev export --dark --output ../2021-08-18-leanera-design-tokens.pdf"
   },
   "dependencies": {
-    "@slidev/cli": "^0.25.8",
+    "@slidev/cli": "^0.27.9",
     "@slidev/theme-default": "^0.21.0"
   },
   "devDependencies": {
-    "@slidev/types": "^0.25.8",
-    "playwright-chromium": "^1.15.0"
+    "@slidev/types": "^0.27.9",
+    "playwright-chromium": "^1.16.1"
   }
 }

@@ -4,7 +4,7 @@
     "build": "shx rm -rf dist && pnpm -r run build"
   },
   "devDependencies": {
-    "pnpm": "^6.15.2",
+    "pnpm": "^6.19.1",
     "shx": "^0.3.3"
   }
 }
