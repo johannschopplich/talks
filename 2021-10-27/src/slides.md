@@ -742,13 +742,6 @@ export default {
 </div>
 </div>
 
-<!--
-So let's take a look at how we used to use components in Vue: TODO:.....
-
-
-One that worth mentioning is that while are you actually register the components globally, the drawback of global registration is that you will lose the ability to code splitting and TypeScript support.
--->
-
 ---
 
 # Using Components

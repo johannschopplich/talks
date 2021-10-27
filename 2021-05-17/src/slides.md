@@ -5,9 +5,6 @@ titleTemplate: "%s – Slidev"
 highlighter: shiki
 background: /img/johann-schopplich-greifswald.jpg
 class: text-center
-info: |
-  ## Für LeanERA
-  Kleine Präsentation für das zweite Bewerbungsgespräch.
 ---
 
 # Barrierefreies Routing in SPAs
@@ -16,7 +13,7 @@ info: |
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Los geht’s <uim-arrow-circle-right class="inline mb-0.1em" />
+    Los geht’s <uim-arrow-circle-right class="align-middle" />
   </span>
 </div>
 

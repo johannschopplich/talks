@@ -4,13 +4,5 @@
     "dev": "slidev",
     "build": "slidev build --base /2021/leanera-design-tokens/ --out ../../dist/2021/leanera-design-tokens",
     "export": "slidev export --dark --output ../2021-08-18-leanera-design-tokens.pdf"
-  },
-  "dependencies": {
-    "@slidev/cli": "^0.27.9",
-    "@slidev/theme-default": "^0.21.0"
-  },
-  "devDependencies": {
-    "@slidev/types": "^0.27.9",
-    "playwright-chromium": "^1.16.1"
   }
 }

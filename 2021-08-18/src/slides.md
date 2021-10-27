@@ -3,10 +3,6 @@ theme: default
 title: Design Tokens
 titleTemplate: "%s – Slidev"
 highlighter: shiki
-fonts:
-  sans: "Founders Grotesk,Work Sans"
-  mono: "Fira Code"
-  local: "Founders Grotesk"
 layout: cover
 class: text-center
 ---

@@ -4,18 +4,5 @@
     "dev": "slidev",
     "build": "slidev build --base /2021/bright-horizon-vue-and-vite/ --out ../../dist/2021/bright-horizon-vue-and-vite",
     "export": "slidev export --dark --output ../2021-10-27-bright-horizon-vue-and-vite.pdf"
-  },
-  "dependencies": {
-    "@slidev/cli": "^0.27.9",
-    "@slidev/theme-default": "^0.21.0"
-  },
-  "devDependencies": {
-    "@iconify-json/bx": "^1.0.1",
-    "@iconify-json/logos": "^1.0.1",
-    "@iconify-json/ri": "^1.0.1",
-    "@iconify-json/tabler": "^1.0.1",
-    "@iconify-json/twemoji": "^1.0.2",
-    "@slidev/types": "^0.27.9",
-    "playwright-chromium": "^1.16.1"
   }
 }
