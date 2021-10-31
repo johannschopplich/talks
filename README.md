@@ -2,9 +2,9 @@
 
 > Slides & code for some talks. Nothing fancy. Just some inhouse talks and trainings.
 
-- [en] [A Bright Horizon for Vue & Vite](./2021-10-27) ([▶️ live](https://pedantic-heisenberg-a3e623.netlify.app/2021/bright-horizon-vue-and-vite/)) – Inhouse for LeanERA
-- [en] [Design Tokens](./2021-08-18) ([▶️ live](https://pedantic-heisenberg-a3e623.netlify.app/2021/leanera-design-tokens/)) – Inhouse for LeanERA
-- [de] [Barrierefreies Routing in SPAs](./2021-05-17) ([▶️ live](https://pedantic-heisenberg-a3e623.netlify.app/2021/leanera-accessible-routing-spa/)) – Für zweites Bewerbungsgespräch bei LeanERA
+- [en] [A Bright Horizon for Vue & Vite](./2021-10-27) ([▶️ live](https://talks-jhnn.netlify.app/2021/bright-horizon-vue-and-vite/)) – Inhouse for LeanERA
+- [en] [Design Tokens](./2021-08-18) ([▶️ live](https://talks-jhnn.netlify.app/2021/leanera-design-tokens/)) – Inhouse for LeanERA
+- [de] [Barrierefreies Routing in SPAs](./2021-05-17) ([▶️ live](https://talks-jhnn.netlify.app/2021/leanera-accessible-routing-spa/)) – Für zweites Bewerbungsgespräch bei LeanERA
 
 ## Installation & Usage
 

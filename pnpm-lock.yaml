@@ -4,17 +4,17 @@ importers:
 
   .:
     specifiers:
-      '@iconify/json': ^1.1.420
+      '@iconify/json': ^1.1.421
       '@slidev/cli': ^0.27.9
       '@slidev/theme-default': ^0.21.0
-      playwright-chromium: ^1.16.1
+      playwright-chromium: ^1.16.2
       pnpm: ^6.19.1
       shx: ^0.3.3
     devDependencies:
-      '@iconify/json': 1.1.420
-      '@slidev/cli': 0.27.9_playwright-chromium@1.16.1
+      '@iconify/json': 1.1.421
+      '@slidev/cli': 0.27.9_playwright-chromium@1.16.2
       '@slidev/theme-default': 0.21.0
-      playwright-chromium: 1.16.1
+      playwright-chromium: 1.16.2
       pnpm: 6.19.1
       shx: 0.3.3
 
@@ -70,8 +70,8 @@ packages:
       '@iconify/types': 1.0.10
     dev: true
 
-  /@iconify/json/1.1.420:
-    resolution: {integrity: sha512-HhGzbp/3dY8RlSbmKbgx9yGSDdiS/YNrE9RzjjDIu8tOutTeGD2R2OrDVnm8HlRHWU5u/VYaKcG0LLQO/e6vaQ==}
+  /@iconify/json/1.1.421:
+    resolution: {integrity: sha512-nCxWszt2AjVsG/REoAhFue4aiJniZmjx8M2MAS/SCSHQUGoxKcFTg5NeyfDW1tQiKJ0R8AmbEb0Zum8ljybZNA==}
     dev: true
 
   /@iconify/types/1.0.10:
@@ -125,7 +125,7 @@ packages:
       picomatch: 2.3.0
     dev: true
 
-  /@slidev/cli/0.27.9_playwright-chromium@1.16.1:
+  /@slidev/cli/0.27.9_playwright-chromium@1.16.2:
     resolution: {integrity: sha512-D+TTZZ0c1MN4ADHt6Roh5a7wFS553MLOdLCAFW/mtoZsTZ2R7lprNuijmWQoCL6CAmZgW7voTxK3gYLsQfKhpw==}
     engines: {node: '>=14.0.0'}
     hasBin: true
@@ -162,7 +162,7 @@ packages:
       nanoid: 3.1.30
       open: 8.4.0
       pdf-lib: 1.17.0
-      playwright-chromium: 1.16.1
+      playwright-chromium: 1.16.2
       prismjs: 1.25.0
       prompts: 2.4.2
       resolve: 1.20.0
@@ -2089,21 +2089,21 @@ packages:
     engines: {node: '>=8.6'}
     dev: true
 
-  /playwright-chromium/1.16.1:
-    resolution: {integrity: sha512-TdVM6fEnwBxety88rxiHitRflEdt2/iaFWchAqR/lVU29/B7QsJ/qTQ/jolmkAOeUXCSopTnrGDhhCxp45LJIQ==}
+  /playwright-chromium/1.16.2:
+    resolution: {integrity: sha512-tqLzJCNfqIB25uJTOtBmD6WofLUMe4iO0q5SKDmUcZXkz5vKXGAvNg5PHg6piMR96qTUNXgbCCpt5i33r1u51Q==}
     engines: {node: '>=12'}
     hasBin: true
     requiresBuild: true
     dependencies:
-      playwright-core: 1.16.1
+      playwright-core: 1.16.2
     transitivePeerDependencies:
       - bufferutil
       - supports-color
       - utf-8-validate
     dev: true
 
-  /playwright-core/1.16.1:
-    resolution: {integrity: sha512-SdThyChaLkvFkVEPZ/pfhiaaD4pnBTts2MYZzRMS+fYeyHzPy/FI+NUTj5Rgs+ZN9BCIrbJhfzvfYBxco/4X4A==}
+  /playwright-core/1.16.2:
+    resolution: {integrity: sha512-8WkoP5OfZAYrRxtW/PCVACn9bNgqrTxVVPlc+MoxvJ48knNsZ+skrPjfno/XF3SgTUY9DyYX0g5fVOB7lkPtGg==}
     engines: {node: '>=12'}
     hasBin: true
     dependencies:
