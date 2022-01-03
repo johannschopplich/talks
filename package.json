@@ -4,11 +4,11 @@
     "build": "shx rm -rf dist && pnpm -r run build"
   },
   "devDependencies": {
-    "@iconify/json": "^1.1.421",
-    "@slidev/cli": "^0.27.9",
-    "@slidev/theme-default": "^0.21.0",
-    "playwright-chromium": "^1.16.2",
-    "pnpm": "^6.19.1",
+    "@iconify/json": "^1.1.451",
+    "@slidev/cli": "^0.27.20",
+    "@slidev/theme-default": "^0.21.1",
+    "playwright-chromium": "^1.17.1",
+    "pnpm": "^6.24.4",
     "shx": "^0.3.3"
   }
 }
